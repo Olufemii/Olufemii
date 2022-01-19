@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olufemii
-- 👀 I’m interested in Python, Data Analysis and Machine learning 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on job search 
+- 👀 I’m interested in Python and Data Analytics
+- 🌱 I’m currently learning Python, R, MySql, Tableau
+- 💞️
 - 📫 How to reach me holuphemieoladaye@gmail.com
 
 <!---

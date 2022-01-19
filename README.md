@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Olufemii
+- 👋 Hi, I’m Olufemi @Olufemii
 - 👀 I’m interested in Python and Data Analytics
 - 🌱 I’m currently learning Python, R, MySql, Tableau
 - 💞️
